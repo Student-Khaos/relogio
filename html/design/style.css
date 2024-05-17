@@ -4,17 +4,17 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: black;
-    background-image: url(https://piauihoje.com/uploads/imagens/ur1-1697756316.jpg);}
+    background-image: url(https://piauihoje.com/uploads/imagens/ur1-1697756316.jpg);
+    }
 
 .clock {
     background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 70px;
+    border-radius: 40px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 .time {
-    font-size: 2rem;
+    font-size: 5rem;
     text-align: center;
 }
